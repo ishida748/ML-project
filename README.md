@@ -179,7 +179,7 @@ For a deeper understanding of AI, machine learning, and data science, I recommen
 
 Distributed under the MIT License. See [LICENSE](https://github.com/shsarv/Machine-Learning-Projects/blob/main/LICENSE.md) for more information.
 
-## Maintained By
+
 
 <table>
   <tr>
